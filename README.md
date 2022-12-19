@@ -4,7 +4,7 @@ This example demonstrates how to customize the allday panel background in the Fl
 
 By using the [allDayPanelColor](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/TimeSlotViewSettings/allDayPanelColor.html) property of the [timeSlotViewSettings](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/TimeSlotViewSettings/TimeSlotViewSettings.html), you can customize the background colour for the all-day panel in the Flutter Calendar.
 
-
+![alldaypanelcolor](https://user-images.githubusercontent.com/46158936/204238380-156b248f-1f96-4749-9227-9dbca7ef173f.jpg)
 
 You can also refer our UG documentation to know more about [AlldaypanelCustomization](https://help.syncfusion.com/flutter/calendar/timeslot-views#all-day-panel-background-color).
 
